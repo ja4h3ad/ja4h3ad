@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ja4h3ad
+- 👋 Hi, I’m @ja4h3ad (pronounced "Jarhead")
 - 👀 I’m interested in natural language processing (NLP)
 - 🌱 I’m currently learning human language technology (HLT) and NLP
 - 💞️ I’m looking to collaborate on anything related to natural language processing
